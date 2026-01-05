@@ -1,0 +1,5 @@
+{
+  "name": "Magic Eraser AI - Background Remover",
+  "description": "A high-performance background removal tool using Gemini 2.5 Flash Image for precise subject isolation and custom background replacement.",
+  "requestFramePermissions": []
+}
